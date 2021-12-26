@@ -1,3 +1,2 @@
-# [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
-
-
+# This is my solution to the freeCodeCamp [Issue Tracker](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker) challenge.
+## You will need your own .env file to run this program, but non-private variables required in it are: PORT=3000, NODE_ENV=test
